@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Sonic Store',
     description: "A fully responsive ecommerce website with sanity and payments by stripe.",
-      image: '/images/1.png',
+      image: '/image1/.png',
       tags: ['Nextjs', 'Sanity', 'Stripe'],
     source: 'https://github.com/YashVaghel/ecommerce-nextjs-sanity',
     visit: 'https://ecommerce-nextjs-sanity-omega.vercel.app/',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'CryptoVerse',
     description:"All in one cryptocurrency website for tracking all cryptocurrencies in world",
-    image: '/images/2.png',
+    image: '/images1/.png',
     tags: ['React', 'JavaScript','RapidApi'],
     source: 'https://github.com/YashVaghel/Cryptoverse',
     visit: 'https://google.com',
