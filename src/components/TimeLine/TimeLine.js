@@ -46,12 +46,12 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Hello, my name is yash vaghela.
-I am a full-stack web developer and do machine learning.
+      Hello, my name is Dhruv Patel.
+I am a full-stack web developer and also do Web Scraping.
 Feel free to take a look at my latest projects on the web portfolio page.
 
       </SectionText>
-      <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
+      <CarouselContainer ref={carouselRef} onScroll={handleScroll} >
         <>
           {TimeLineData.map((item, index) => (
             <CarouselMobileScrollNode

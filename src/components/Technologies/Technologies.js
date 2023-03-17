@@ -40,7 +40,7 @@ const Technologies = () =>  (
       < DiZend  size='3rem'/>
       <ListContainer>
         <ListTitle>
-          Machine Learning
+          Web Scraping
         </ListTitle>
         <ListParagraph>
           Experience with <br />

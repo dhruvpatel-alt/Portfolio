@@ -10,11 +10,11 @@ const Footer = () => {
   <LinkList>
   <LinkColumn>
   <LinkTitle>Call</LinkTitle>
-  <LinkItem href='tel:8141074592'>8141074592</LinkItem>
+  <LinkItem href='tel:(+91) 9157832159'>(+91) 9157832159</LinkItem>
   </LinkColumn>
   <LinkColumn>
   <LinkTitle>Email</LinkTitle>
-  <LinkItem href='mailto:yashvaghela015@gmail.com'>yashvaghela015@gmail.com</LinkItem>
+  <LinkItem href='mailto:yashvaghela015@gmail.com'>dp20021609@gmail.com</LinkItem>
   </LinkColumn>
   </LinkList>
   <SocialIconsContainer>
@@ -22,13 +22,13 @@ const Footer = () => {
       <Slogan>Innovating one projet at a time</Slogan>
     </CompanyContainer>
   
-  <SocialIcons href='https://github.com'>
+  <SocialIcons href='https://github.com/dhruvpatel-alt'>
             <AiFillGithub size='3rem'/>
         </SocialIcons>
-        <SocialIcons href='https://linkedin.com'>
+        <SocialIcons href='https://www.linkedin.com/in/dhruv-patel-282a12252/'>
             <AiFillLinkedin size='3rem'/>
         </SocialIcons>
-        <SocialIcons href='https://twitter.com'>
+        <SocialIcons href='https://twitter.com/DhruvPa59792409'>
             <AiFillTwitterSquare size='3rem'/>
         </SocialIcons>
         </SocialIconsContainer>

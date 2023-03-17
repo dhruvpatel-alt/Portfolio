@@ -5,14 +5,14 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { projects } from '../../constants/constants';
 
 const Projects = () => ( 
-    <Section nopadding id = "projects" >
+    <Section nopadding id = "projects"  style={{maxWidth:'100%'}}>
     <SectionDivider/>
     <SectionTitle main > Projects </SectionTitle> 
     <GridContainer> 
         {
         projects.map(({id,image,title,description,source,tags,visit}) => ( 
 <BlogCard key = {id}>
-    <Img src={image}/>
+    <Img src={image} alt="no img"/>
     <TitleContent>
         <HeaderThree>{title}</HeaderThree>
         <Hr/>
